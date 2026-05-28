@@ -1,0 +1,6 @@
+{
+  "name": "Vinu Edit",
+  "description": "AI-powered photo editing app with real-time preview, HD upscaling, background removal, color correction, and style filters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
